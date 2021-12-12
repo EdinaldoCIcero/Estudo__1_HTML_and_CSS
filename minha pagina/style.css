@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+
+
+body {
+  position: relative;
+  background-color: #262626;
+  background-image: url(img/office.jpg);
+  /*background-image: linear-gradient(#3477eb , #5934eb);*/
+  background-repeat: no-repeat;
+  margin-right: 80px;
+  margin-left: 80px;
+  background-attachment: fixed;
+  max-width: 2000px;
+  font-family: "Lato";
+
+}
+
+/*--------------------------------------------------------*/
+.img_banner_1 {
+  max-width: 100%;
+  max-height: 100%;
+  position: relative;
+  border-radius: 12px;
+  /*opacity: 80%;*/
+}
+
+.primeiro_titulo {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: initial;
+  text-shadow: 0.3rem 0.4rem 2px rgba(0, 0, 0, 0.4);
+  margin: 05%;
+  position: relative;
+  text-align: center;
+  top: 20%;
+  left: 0%;
+}
+
+/*--------------------------------------------------------*/
+.container {
+  display: flex;
+  align-items: center;
+}
+
+video {
+  width: 50%;
+  position: relative;
+  border-radius: 15px;
+  margin-left: 100px;
+}
+
+.texto_1 {
+  color: #ffff;
+  text-shadow: 0.3rem 0.4rem 2px rgba(0, 0, 0, 0.4);
+  font-size: 20px;
+  width: 50%;
+  height: 25%;
+  position: relative;
+  text-align: left;
+}
+
+/*--------------------------------------------------------*/
+
+.titulo_1 ,.titulo_2 {
+  color: #ffff;
+  text-shadow: 0.3rem 0.4rem 2px rgba(0, 0, 0, 0.4);
+  margin: 18px;
+}
+
+.container_2 {
+  display: flex;
+  align-items: center;
+  margin-top: 8%;
+}
+
+.man_img {
+  width: 50%;
+  position: relative;
+  border-radius: 15px;
+  margin-left: 100px;
+
+}
+.texto_2 {
+  color: #ffff;
+  text-shadow: 0.3rem 0.4rem 2px rgba(0, 0, 0, 0.4);
+  font-size: 20px;
+  width: 80%;
+  height: 25%;
+  position: relative;
+  text-align: left;
+}
+
+
+
+
