@@ -1,2 +1,77 @@
 # Estudo__1_HTML_and_CSS
 Pagina feita em HTML + CSS para estudo dos mesmo.
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css"/>
+    <title> WebHTML_estudo </title>
+  </head>
+
+  <body>
+
+  	<div>
+  		<img class= "img_banner_1" src="img/banner_1.jpg">
+  	</div>
+
+  	<h1 class="primeiro_titulo"> 
+      Falando um pouco sobre o mundo da Programação. 
+    </h1>
+
+    <h1 class="titulo_1"> Falando um pouco! </h1>
+
+    <div class="container">
+      <p class="texto_1">
+        
+
+            Olá meu nome é Edinaldo, e vou ser sincero com você..! Tudo isso
+        que você esta vendo aqui faz parte de um estudo, pra ser mais especifico
+        Html + Css que por sinal é muito legal de se brincar, bom o titulo acima diz 
+        sobre programão mais html e css não são de fato liguagens de programação nesse
+        caso eu desenvolvi essa pagina em html e css, mais mesmo assim vamos pegar
+        com um todo certo!
+
+          No mundo da programção tudo pode ser criado a limitação maior esta em você 
+        e é claro no seu hardware também kkkk, continuando na programação se precisa de
+        algo muito legal para entender, aprender e criar tudo aquilo que você imagina e
+        isso se chamar Logica, bom tem o termo bem mais conhecido que é Logica de Programação 
+        e é com isso que você vai criar os seus projeto, suas ideias, porém é claro, que 
+        se deve estudar uma liguagem de programação logo em seguida para assim colocar suas
+        ideias em praticas lembrando que se for html vc não estará programando mais sim 
+        desenvolvendo, porém temos o JavaScript a linguagem de progrmação muito usada
+        em desenvolvimento web que é o proprio Html.
+      </p>
+
+      <video width="400" autoplay muted loop>
+        <source src="img/Laptop.mp4" type="video/mp4">
+      </video>
+    </div>
+
+
+    
+
+    <div class="container_2">
+     
+
+      <img class= "man_img" src="img/man.png">
+
+      <div>
+        <h1 class="titulo_2"> Esse não sou eu em ! Hahaha! </h1>
+
+        <p class="texto_2">
+            Esse aqui do lado não sou eu kkkk, mais confesso que fico com essa reação quando
+          estou programando ou desenvolvendo um projeto que no final tudo dar certo, pois o 
+          resultado é muito gratificante pode ter certeza disso em !!
+        </p>
+      </div>
+      
+
+    </div>
+
+
+  </body>
+
+</html>
